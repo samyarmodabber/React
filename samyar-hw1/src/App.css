@@ -23,25 +23,8 @@
   color: #61dafb;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
 
-.taskRow {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: pink;
-  border-radius: 10px;
-  padding: 5px;
-  margin: 5px;
-}
-/* .taskRow h3{
-  display: inline-flex
-} */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
